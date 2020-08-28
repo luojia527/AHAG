@@ -9,6 +9,20 @@ This is our implementation for the paper:
 
 AHAG: This is the state-of-the-art method that uti-lizes deep learning technology to jointly model user and item from reviews for item recommendation.
 
+##Cite
+
+If you use the code, please kindly cite the following paper:
+
+@article{liu2020adaptive,
+  title={Adaptive Hierarchical Attention-Enhanced Gated Network Integrating Reviews for Item Recommendation},
+  author={Liu, Donghua and Wu, Jia and Li, Jing and Du, Bo and Chang, Jun and Li, Xuefei},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2020},
+  publisher={IEEE}
+}
+
+
+
 
 ## Environments
 
